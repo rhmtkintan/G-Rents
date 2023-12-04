@@ -5,11 +5,12 @@ Terdapat dua branch dalam satu repo ini yakni
 
 ## Frontend
 Clone dengan perintah
-git clone --branch front_end --single-branch https://github.com/rhmtkintan/G-Rent.git
-pindahkan ke folder htdocs
+- git clone --branch front_end --single-branch https://github.com/rhmtkintan/G-Rent.git
+- pindahkan ke folder htdocs
 ## Backend
-Clone dengan perintah
-git clone --branch back_end_api --single-branch https://github.com/rhmtkintan/G-Rent.git
-cd G-Rent
-npm install
-npm run dev
+Clone dengan perintah:
+
+ - git clone --branch back_end_api --single-branch https://github.com/rhmtkintan/G-Rent.git 
+ - cd G-Rent
+ - npm install
+ - npm run dev
